@@ -1,6 +1,6 @@
 **Hi, I’m Prajyot Gorlewar**
 
-***I’m interested in  GAME DEVELOPMENT   &   UI/UX***
+***I’m interested in  Game Development   &   UI/UX***
 
  **MY STATS :**
  
