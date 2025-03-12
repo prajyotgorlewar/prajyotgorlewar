@@ -46,14 +46,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prajyotgorlewar/prajyotgorlewar/output/snake.svg" alt="Snake animation" />
+<div align="left">
+</div>
 
 ###
 
-<div align="left">
-</div>
+<img src="https://raw.githubusercontent.com/prajyotgorlewar/prajyotgorlewar/output/snake.svg" alt="Snake animation" />
 
 ###
 
