@@ -9,7 +9,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=prajyotgorlewar&theme=highcontrast&hide_border=true" />
 </p>
 
-
+---
 
 [![](https://visitcount.itsvg.in/api?id=prajyotgorlewar&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -17,9 +17,8 @@
 ###
 
 <div align="center">
-  <h2 align="center">Till now I have worked on these Tech Stack</h2>
-  <br/>
-  <br/>
+  <h2 align="center" style="margin: 0; padding: 0;">Till now I have worked on these Tech Stack</h2>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
