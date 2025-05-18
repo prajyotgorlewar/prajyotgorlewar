@@ -51,6 +51,12 @@
 
 ###
 
+### 🚀 Contributors
+
+<a href="https://github.com/prajyotgorlewar/YOUR_REPO_NAME/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prajyotgorlewar/YOUR_REPO_NAME" />
+</a>
+
 <img src="https://raw.githubusercontent.com/prajyotgorlewar/prajyotgorlewar/output/snake.svg" alt="Snake animation" />
 
 ###
